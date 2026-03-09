@@ -1,0 +1,26 @@
+{
+  "name": "jitterbit---teste-teorico-ie-ps-2026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evelynsuzarte/Jitterbit-Teste-Teorico-IE-PS-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Evelynsuzarte/Jitterbit-Teste-Teorico-IE-PS-2026/issues"
+  },
+  "homepage": "https://github.com/Evelynsuzarte/Jitterbit-Teste-Teorico-IE-PS-2026#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "sqlite3": "^5.1.7"
+  }
+}
