@@ -16,7 +16,7 @@ const swaggerOptions = {
         info: {
             title: "API de ordens e itens - Desafio Jitterbit 2026",
             version: "1.0.0",
-            description: "Criada por: Evelyn Suzarte Fernandes"
+            description: "Criada por: Evelyn Suzarte Fernandes - IMPORTANTE! Aplicar token ao fazer login para conseguir acessar endpoints"
         },
         servers: [
             {
